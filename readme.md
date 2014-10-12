@@ -1,1 +1,1 @@
-Hello <span style="text-decoration:line-through;">world</span> CJD.
+Hello ~~world~~ CJD.
